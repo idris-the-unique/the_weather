@@ -1,6 +1,7 @@
 appnope==0.1.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
+asgiref==3.5.2
 asttokens==2.0.5
 attrs==21.2.0
 awsebcli==3.20.2
@@ -21,6 +22,7 @@ cycler==0.11.0
 debugpy==1.6.0
 decorator==5.1.1
 defusedxml==0.7.1
+Django==4.0.5
 docker==4.4.4
 docker-compose==1.25.5
 dockerpty==0.4.1
@@ -88,6 +90,7 @@ semantic-version==2.8.5
 Send2Trash==1.8.0
 six==1.14.0
 soupsieve==2.3.1
+sqlparse==0.4.2
 stack-data==0.2.0
 termcolor==1.1.0
 terminado==0.13.3
