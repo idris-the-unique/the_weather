@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-r#je3-i4!ov+-2%!^!wwl8vyg-*ol2!$gc(i9nxjpba-@+m7iq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ghweatherapp.herokuapp.com']
 
 
 # Application definition
